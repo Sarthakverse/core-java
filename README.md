@@ -25,3 +25,6 @@
 ### Implement design patterns for single-instance classes.
 ## Stream API: 
 ### Apply functional programming for processing sequences.
+
+# Getting Started:
+## Clone the repository:
